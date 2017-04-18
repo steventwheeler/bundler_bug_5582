@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    timeout (0.0.1)
+      timeout-extensions
+    timeout-extensions (0.1.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  timeout
+
+BUNDLED WITH
+   1.14.6
